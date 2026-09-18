@@ -1,0 +1,110 @@
+[
+  {
+    "id": "brand_001",
+    "brand": "SK-II",
+    "aliases": ["神仙水", "SK2", "SKII"],
+    "category": "护肤品/精华水"
+  },
+  {
+    "id": "brand_002",
+    "brand": "雅诗兰黛",
+    "aliases": ["小棕瓶", "雅诗兰黛"],
+    "category": "护肤品/精华液"
+  },
+  {
+    "id": "brand_003",
+    "brand": "兰蔻",
+    "aliases": ["小黑瓶", "兰蔻"],
+    "category": "护肤品/精华"
+  },
+  {
+    "id": "brand_004",
+    "brand": "海蓝之谜",
+    "aliases": ["腊梅", "LAMER", "海蓝之谜"],
+    "category": "护肤品/面霜"
+  },
+  {
+    "id": "brand_005",
+    "brand": "苹果",
+    "aliases": ["果机", "水果机", "iPhone", "苹果手机"],
+    "category": "手机/数码"
+  },
+  {
+    "id": "brand_006",
+    "brand": "特斯拉",
+    "aliases": ["毛豆3", "特斯拉", "Model 3"],
+    "category": "汽车"
+  },
+  {
+    "id": "brand_007",
+    "brand": "华为",
+    "aliases": ["华子", "华为"],
+    "category": "手机/数码"
+  },
+  {
+    "id": "brand_008",
+    "brand": "小米",
+    "aliases": ["粗粮", "小米"],
+    "category": "手机/数码"
+  },
+  {
+    "id": "brand_009",
+    "brand": "星巴克",
+    "aliases": ["星爸爸", "星巴克"],
+    "category": "咖啡/饮品"
+  },
+  {
+    "id": "brand_010",
+    "brand": "蜜雪冰城",
+    "aliases": ["雪王", "蜜雪冰城"],
+    "category": "茶饮"
+  },
+  {
+    "id": "brand_011",
+    "brand": "完美日记",
+    "aliases": ["完子", "完美日记"],
+    "category": "美妆"
+  },
+  {
+    "id": "brand_012",
+    "brand": "花西子",
+    "aliases": ["花子", "花西子"],
+    "category": "美妆"
+  },
+  {
+    "id": "brand_013",
+    "brand": "元气森林",
+    "aliases": ["元气", "元气森林"],
+    "category": "饮料"
+  },
+  {
+    "id": "brand_014",
+    "brand": "泡泡玛特",
+    "aliases": ["泡泡", "泡泡玛特"],
+    "category": "潮玩"
+  },
+  {
+    "id": "brand_015",
+    "brand": "李宁",
+    "aliases": ["宁子", "李宁"],
+    "category": "运动服饰"
+  },
+  {
+    "id": "brand_016",
+    "brand": "安踏",
+    "aliases": ["安踏"],
+    "category": "运动服饰"
+  },
+  {
+    "id": "brand_017",
+    "brand": "无印良品",
+    "aliases": ["MUJI", "无印良品"],
+    "category": "家居/百货"
+  },
+  {
+    "id": "brand_018",
+    "brand": "名创优品",
+    "aliases": ["名创", "名创优品"],
+    "category": "百货"
+  }
+]

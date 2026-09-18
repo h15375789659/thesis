@@ -1,0 +1,26 @@
+# === Python 缓存 ===
+__pycache__/
+*.py[cod]
+*.pyo
+
+# === 虚拟环境（可重建，勿提交） ===
+venv/
+
+# === 向量数据库（可重建，勿提交） ===
+code/knowledge_base/chroma_db/
+
+# === 测试产物 ===
+test_output.json
+phase3_test_db/
+_api_test_db/
+
+# === 敏感信息（含 API Key，勿提交） ===
+code/core/config.py
+code/phase2/config.py
+
+# === IDE ===
+.vscode/
+.idea/
+
+# Claude Code 本地设置（惯例不进版本控制）
+.claude/settings.local.json
